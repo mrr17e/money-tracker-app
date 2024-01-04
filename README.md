@@ -33,7 +33,7 @@ This is a simple web application for managing expenses and income. It allows use
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/mrr17e/money-tracker-app.git
    cd money-tracker-app
 2. **Install Dependencies:**
    ```bash
